@@ -64,7 +64,7 @@ function App() {
       gradient: 'from-red-600/30 via-orange-600/20 to-yellow-600/30',
       accent: 'text-red-400',
       borderAccent: 'border-red-500/20',
-      github: 'https://github.com',
+      github: 'https://github.com/femivita/dungeon-protocol',
       demo: null,
     },
     {
