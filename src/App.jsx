@@ -170,9 +170,6 @@ function App() {
                 {link.label}
               </a>
             ))}
-            <a href="#contact" className="px-5 py-2 text-sm font-semibold text-dark-bg bg-glow-cyan rounded-lg hover:bg-cyan-300 transition-colors">
-              Hire Me
-            </a>
           </div>
           <button className="md:hidden text-white" onClick={() => setMobileMenuOpen(!mobileMenuOpen)}>
             {mobileMenuOpen ? <X /> : <Menu />}
@@ -185,9 +182,6 @@ function App() {
                 {link.label}
               </a>
             ))}
-            <a href="#contact" className="px-5 py-2 text-center font-semibold text-dark-bg bg-glow-cyan rounded-lg" onClick={() => setMobileMenuOpen(false)}>
-              Hire Me
-            </a>
           </div>
         )}
       </nav>
@@ -480,15 +474,13 @@ function App() {
               <Mail className="w-5 h-5" />
               hello@gamedev.dev
             </a>
-            <a href="#" className="px-8 py-4 text-lg font-semibold text-white border border-white/20 rounded-xl hover:bg-white/5 transition-all flex items-center gap-2">
+            <a href="https://github.com/femivita" target="_blank" rel="noopener noreferrer" className="px-8 py-4 text-lg font-semibold text-white border border-white/20 rounded-xl hover:bg-white/5 transition-all flex items-center gap-2">
               <Github className="w-5 h-5" />
               GitHub
             </a>
           </div>
           <div className="flex items-center justify-center gap-6 text-slate-500">
-            <a href="#" className="hover:text-glow-cyan transition-colors"><Github className="w-6 h-6" /></a>
-            <a href="#" className="hover:text-glow-purple transition-colors"><Linkedin className="w-6 h-6" /></a>
-            <a href="#" className="hover:text-glow-pink transition-colors"><Globe className="w-6 h-6" /></a>
+            <a href="https://github.com/femivita" className="hover:text-glow-cyan transition-colors"><Github className="w-6 h-6" /></a>
           </div>
         </div>
       </section>
