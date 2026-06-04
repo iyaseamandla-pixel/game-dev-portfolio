@@ -96,7 +96,7 @@ function App() {
       gradient: 'from-emerald-600/30 via-teal-600/20 to-cyan-600/30',
       accent: 'text-emerald-400',
       borderAccent: 'border-emerald-500/20',
-      github: 'https://github.com',
+      github: 'https://github.com/femivita/xenko-outpost',
       demo: null,
     },
     {
@@ -128,8 +128,8 @@ function App() {
       gradient: 'from-green-600/30 via-lime-600/20 to-emerald-600/30',
       accent: 'text-green-400',
       borderAccent: 'border-green-500/20',
-      github: 'https://github.com',
-      demo: 'https://example.com',
+      github: 'https://github.com/femivita/voxel-forge',
+      demo: null,
     },
   ]
 
