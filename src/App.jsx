@@ -80,8 +80,8 @@ function App() {
       gradient: 'from-amber-600/30 via-orange-600/20 to-red-600/30',
       accent: 'text-amber-400',
       borderAccent: 'border-amber-500/20',
-      github: 'https://github.com',
-      demo: 'https://example.com',
+      github: 'https://github.com/femivita/solar-siege',
+      demo: null,
     },
     {
       title: 'Xenko Outpost',
