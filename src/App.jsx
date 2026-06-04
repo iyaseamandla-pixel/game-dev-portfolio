@@ -213,9 +213,7 @@ function App() {
             </a>
           </div>
           <div className="mt-16 flex items-center justify-center gap-8 text-slate-500">
-            <a href="#" className="hover:text-glow-cyan transition-colors"><Github className="w-6 h-6" /></a>
-            <a href="#" className="hover:text-glow-purple transition-colors"><Linkedin className="w-6 h-6" /></a>
-            <a href="#" className="hover:text-glow-pink transition-colors"><Globe className="w-6 h-6" /></a>
+            <a href="https://github.com/femivita" target="_blank" rel="noopener noreferrer" className="hover:text-glow-cyan transition-colors"><Github className="w-6 h-6" /></a>
           </div>
         </div>
         <a href="#about" className="absolute bottom-8 left-1/2 -translate-x-1/2 text-slate-500 animate-bounce">
