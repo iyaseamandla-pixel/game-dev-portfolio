@@ -484,9 +484,7 @@ function App() {
       </section>
 
       {/* Footer */}
-      <footer className="py-8 border-t border-white/5 text-center text-sm text-slate-600">
-        <p>Built with React & Tailwind CSS.</p>
-      </footer>
+      <footer className="py-8 border-t border-white/5" />
     </div>
   )
 }
