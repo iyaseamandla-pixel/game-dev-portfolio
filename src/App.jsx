@@ -112,8 +112,8 @@ function App() {
       gradient: 'from-blue-600/30 via-indigo-600/20 to-violet-600/30',
       accent: 'text-blue-400',
       borderAccent: 'border-blue-500/20',
-      github: 'https://github.com',
-      demo: 'https://example.com',
+      github: 'https://github.com/femivita/panda-quest',
+      demo: null,
     },
     {
       title: 'VoxelForge',
