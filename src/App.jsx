@@ -48,8 +48,8 @@ function App() {
       gradient: 'from-purple-600/30 via-blue-600/20 to-cyan-600/30',
       accent: 'text-purple-400',
       borderAccent: 'border-purple-500/20',
-      github: 'https://github.com',
-      demo: 'https://example.com',
+      github: 'https://github.com/femivita/nebula-drift',
+      demo: null,
     },
     {
       title: 'Dungeon Protocol',
