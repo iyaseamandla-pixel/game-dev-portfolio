@@ -452,16 +452,6 @@ function App() {
 
               {/* Actions */}
               <div className="flex flex-wrap gap-3">
-                {selectedProject.demo && (
-                  <a
-                    href={selectedProject.demo}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="px-6 py-3 text-sm font-semibold text-dark-bg bg-gradient-to-r from-glow-cyan to-cyan-400 rounded-lg hover:shadow-[0_0_20px_rgba(0,240,255,0.4)] transition-all flex items-center gap-2"
-                  >
-                    <Play className="w-4 h-4" /> Live Demo
-                  </a>
-                )}
                 <a
                   href={selectedProject.github}
                   target="_blank"
