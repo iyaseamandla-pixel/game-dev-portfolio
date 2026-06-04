@@ -495,7 +495,7 @@ function App() {
 
       {/* Footer */}
       <footer className="py-8 border-t border-white/5 text-center text-sm text-slate-600">
-        <p> Game Development Portfolio. Built with React & Tailwind CSS.</p>
+        <p>Built with React & Tailwind CSS.</p>
       </footer>
     </div>
   )
